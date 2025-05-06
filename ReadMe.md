@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/63163d12de0b408cadec487851224297)](https://app.codacy.com/gh/timmaxx/topjava34/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+
 Java Enterprise Online Project
 ===============================
 
